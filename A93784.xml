@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>James Grahme, Esq; appellant, Francis Stamper, respondent The appeal is to reverse an order of the High Court of Chancery, made the 18th of December, 1693. on re-hearing of the cause and the respondents plea put in, to the appellants bill. The respondent's case.</title>
+            <author>Stamper, Francis, d. 1766.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93784</idno>
+            <idno type="STC">Wing S5197A</idno>
+            <idno type="STC">ESTC R230358</idno>
+            <idno type="EEBO-CITATION">99899471</idno>
+            <idno type="PROQUEST">99899471</idno>
+            <idno type="VID">153619</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93784)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153619)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2372:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>James Grahme, Esq; appellant, Francis Stamper, respondent The appeal is to reverse an order of the High Court of Chancery, made the 18th of December, 1693. on re-hearing of the cause and the respondents plea put in, to the appellants bill. The respondent's case.</title>
+                  <author>Stamper, Francis, d. 1766.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Docket title: James Grahme, Esq; appellant, Frances Stamper, respond. The respondent's case. to be heard the 23. of January, 1693.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grahme, James --  Early works to 1800.</term>
+               <term>Actions and defenses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153619:1" rendition="simple:additions"/>
+            <p>
+               <hi>Iames Grahme,</hi> 
+               <abbr>Eſq</abbr> Appellant, Francis Stamper, Reſpond.</p>
+            <p>
+               <hi>The Reſpondent's Caſe.</hi>
+            </p>
+            <p>To be heard the 23<hi rend="sup">th</hi> of <hi>January,</hi> 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:153619:2"/>
+            <head>
+               <hi>JAMES GRAHME,</hi> 
+               <abbr>Eſq</abbr> Appellant, <hi>FRANCIS STAMPER,</hi> Reſpondent.</head>
+            <head type="sub">The Appeal is to Reverſe an Order of the High Court of Chancery, made the <hi>18th</hi> of <hi>December, 1693.</hi> on Re-hearing of the Cauſe and the Reſpondents Plea put in, to the Appellants Bill.</head>
+            <p>
+               <hi>The RESPONDENT's CASE.</hi>
+            </p>
+            <p>THAT the Reſpondent is a Laceman, <note place="margin">Tryal in <hi>Michaelmas Terme,</hi> 1689.</note> and the Appellant for many Years paſt hath been the Reſpondent and his Partners Cuſtomer; and in the year, 1688. owed them 318 <abbr>
+                  <hi>l.</hi>
+               </abbr> 18 <abbr>
+                  <hi>s.</hi>
+               </abbr> 9 <abbr>
+                  <hi>d.</hi>
+               </abbr> for Wares ſold; and Appellant refuſing to pay them, they brought their Action againſt him in the Common Pleas, which was tryed in <hi>Michaelmas</hi> Term, 1689. before the late Lord Chief Juſtice <hi>Pollixfen;</hi> and the Appellant; in mittigation of Damages, gave in Evidence on the Tryal, that part of the Goods (in queſtion) were for Livery-Lace, delivered for the Uſe of the late King <hi>James</hi> his Hunts, and to be paid for by him; but the Reſpondent, denyed that he truſted King <hi>James,</hi> and proved he only truſted the Appellant, who promiſed Payment thereof. At which Tryal, the Appellant pro<g ref="char:EOLhyphen"/>duced his own Books of Accounts, and ſeveral Receipts and Acquittances given by the Reſpondent; and alſo the Reſpondent produced all his Shop-Books, which the Jury viewed and examined, and the Appellant alſo produced ſeveral of his own and King <hi>James</hi> his Servants, and divers other Witneſſes were examined on both ſides; and, after a long Tryal, had a Verdict paſſed for the Reſpondent for 299 <abbr>
+                  <hi>l.</hi>
+               </abbr> 18 <abbr>
+                  <hi>s.</hi>
+               </abbr> 9 <abbr>
+                  <hi>d.</hi>
+               </abbr> Damages [beſides Coſts.]</p>
+            <p>Immediately after the Tryal, <note place="margin">In the ſame <hi>Michaelmas Term.</hi>
+               </note> the Appellant moved the Court of Common Pleas upon the Affidavits of himſelf and three other Perſons, for a new Tryal; but all the four Judges there were fully ſatisfied with the Verdict, and denyed a new Tryal. And the Appellant <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rought a Writ of Error returnable, in the Kings Bench, which in <hi>Eaſter</hi>-Term, 1690. was argued, and Judgment was affirmed thereon for th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ondent; but juſt before the Court affirmed the Judgment, <hi>viz.</hi>
+            </p>
+            <p>The Appellant exhibited his Bill in Chancery, <note place="margin">In <hi>Eaſter Term,</hi> 1690.</note> generally, praying to be Relieved; alledging the ſame Matter and no oth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he had before offered on on his Defence, at the Tryal at Law; and had urged, to the Judges, when he moved for a new Tryal (as appears by comparing the Bill in Chancery with the ſaid Affidavits) whereto the Reſpondent pleaded the ſaid Verdict and Judgments, and therein ſet forth the whole Series of the Proceedings and Evidence, given at the Tryal at Law, and the motion for a new Tryal and that denyed; and inſiſted, that after a Verdict upon full Evidence, and a new Tryal denyed, and Judgment in a Writ of Error, and intire Damages given the Chancery, ought not to Interpoſe, eſpecially no new Mat<g ref="char:EOLhyphen"/>ter being alledged in the Bill, and therefore prayed to be diſmiſſed.</p>
+            <p>The Plea was heard, <note place="margin">Order of the 1ſt of <hi>July,</hi> 1690.</note> but the Court ordered the Reſpondent to anſwer (ſaving the benefit of the Plea at the hearing of the Cauſe;) but the Reſpon<g ref="char:EOLhyphen"/>dent afterwards Petitioned to have the Plea Re-heard, which was Re heard on the 10th of <hi>December,</hi> 1690. and then the Court Ordered the Reſpondent to Anſwer the Appellants Bill, and to produce upon Oath, all his Books touching the Matters (in queſtion) for the Appellant, and his Agents, to inſpect and peruſe, <note place="margin">Order of the 10th of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> on re-hearing of the Plea.</note> and that the Cauſe ſhould not be further proceeded on till further Order; and the Reſpondent and his Partners fully anſwered the Ap<g ref="char:EOLhyphen"/>pellants Bill, and ſet forth the whole Proceedings at Law, and ſwore they only truſted the Appellant, and not King <hi>James;</hi> and that they relyed only on the Appellants Promiſe of Payment, and inſiſted on their Verdict and Judgment recovered at Law, and denyed the whole Equity of the Appellants Bill. So that the Appellant had the Reſpondents and his Partners Oaths and Denyals, and his Bill required no more.</p>
+            <p>That on the 20th of <hi>January</hi> following, <note place="margin">Order, 20th of <hi>Jan.</hi> 1690.</note> the Reſpondent moved the Court to diſſolve the Injunction, but the Court Ordered the Reſpondent to produce the next day, before a Maſter upon Oath, all his Books touching the Matters (in queſtion) for the Appellant or his Agents to look into (which was done accordingly) and the Injunction Ordered to be diſſolved, <hi>niſi Cauſa.</hi>
+            </p>
+            <p>That on the 29th of <hi>January</hi> following, <note place="margin">Order, 29th <hi>Jan.</hi> 1690.</note> the Appellant ſhewed Cauſe, and the Court Ordered, upon the Appellants bringing 326 <abbr>
+                  <hi>l.</hi>
+               </abbr> into Court (be<g ref="char:EOLhyphen"/>ing the Damages and Coſts recovered at Law) the Appellants Bail at Law ſhould be diſcharged, and continued the Injunction until the hearing of the Cauſe, and the 326 <abbr>
+                  <hi>l.</hi>
+               </abbr> was accordingly paid into Court, which was afterwards moved for to be paid out of Court to the Reſpondents upon Security, but was denyed.</p>
+            <p>That the Cauſe proceeded, and the Appellant hath Examined in Chancery all the ſame Witneſſes which he before had Examined at the Tryal, and only two new Witneſſes, <hi>viz.</hi> the Counteſs of <hi>Dorcheſter</hi> and her Woman, who might have been Examined at the Tryal, and their Evidence is but circumſtantial; and they ſay nothing as to the particular Goods in Queſtion, but the Reſpondent only examined Witneſſes to prove what Evidence was given at Law, and made no Proofs in Chancery as to the Merit of the Cauſe, becauſe it would have been a waver of the ſaid Plea (as adviſed.)</p>
+            <p>The Cauſe was heard, before the laſt Lords Commiſſioners, and the Court declared it a Caſe of Conſequence, yet delivered not their Opinions, but ordered to be attended with the Bill, Anſwer and the Record of the <hi>Poſtea,</hi> and then they would conſider of the Matter: And afterwards the Court was moved to give Judgment; <note place="margin">Cauſe Re-heard 1ſt <hi>June</hi> 1692.</note> and, on the 1ſt of <hi>June</hi> following, the Court re-heard the Cauſe, but gave no final Judgment, only declared they had conſidered of the Caſe, which (as they alledged) appeared to be a Matter of great conſequence, and proper to be ſtated upon the whole Pleadings, and ordered it to ſtand referred to Sir <hi>John Hoskins</hi> and Sir <hi>Adam Otley,</hi> Knights, Two of the Maſters of that Court, to look into and ſtate the whole Matter of the Bill, Anſwer, Declaration and Pleadings at Law and in Chancery, and the Books of Account and Proofs taken, in the Cauſe, and to examine and ſee what Goods were delivered by the Reſpondent on the Appellants own Account, and what on the Publick Account; and what were the Particulars of ſuch Goods, and how Entred in the Reſpondents Books of Account; and the ſaid Maſters were to look into the Reſpondents Books of Account, and ſee how the Entries were made therein for any Goods delivered, and paid for in the years, 1685, 1686 and 1687. And Certifie to the Court how they found the whole Matters; <note place="margin">Order, 1ſt <hi>June,</hi> 1692.</note> and after the Maſters had made their Report therein, the Court would give their final Judgment in the Cauſe, and appoint a day for ſuch purpoſe (but in the mean time the Injunction was continued.)</p>
+            <p>The Reſpondent being adviſed that ſuch the Proceedings in the Cauſe, were contrary to Law and Equity; and being aggrieved therein, On the 25th of <hi>April,</hi> 1693. <note place="margin">25 <hi>April,</hi> 1693. 18 <hi>Decemb.</hi>
+               </note> Petitioned the Lord Keeper to Rehear the ſaid Plea and Cauſe.</p>
+            <p>That the Cauſe and Plea were Re-heard before the Lord Keeper and Mr. Baron <hi>Powell,</hi> who declared their Opinions, That there was no Equity in the Ap<g ref="char:EOLhyphen"/>pellants Bill, it being a proper Cauſe at Law, and received a Tryal there, upon full Evidence on both ſides, and no Fraud alledged by the Appellants Bill, they allowed the Plea, and diſmiſſed the Appellants Bill, with Coſts to the time only of the Reſpondents anſwering the Appellants Bill.</p>
+            <p>
+               <hi>Wherefore the Reſpondent humbly inſiſts, to have the Fruit and Benefit of the Verdict and Judgments at Law, there being nothing but a plain Matter of Fact four Years ſince tryed at Law, and not any Equity in the Appellants Bill, alledged; the Bill in Effect, being only to Arraign the Juries Verdict, and the Opinion of the four Judges; and the Reſpondent having poſitively ſworn by his Anſwer, that he truſted the Appellant only; and not King</hi> James, <hi>and that the Ap<g ref="char:EOLhyphen"/>pellant promiſed him Payment; ſo that if any Proviſion ſhould be made for Payment of King</hi> James <hi>his Debt, the Reſpondent can have no benefit by it.</hi>
+            </p>
+            <p>The Reſpondent <hi>Stamper</hi> hath Sworn in his Anſwer, <note place="margin">Nota.</note> That the Appellant threatned he would ſpend 5000 <abbr>
+                  <hi>l.</hi>
+               </abbr> and not leave himſelf worth a Groat, before he would pay this Debt, and hath kept this poor Tradeſman above four years out of his Mony ſince the Tryal, which would have been very uſeful in his Trade, and cauſed him to ſpend above 500 <abbr>
+                  <hi>l.</hi>
+               </abbr> ſo that the Reſpondent is almoſt undone.</p>
+            <p>The Appellant, <note place="margin">Nota.</note> as Keeper of the Privy Purſe to King <hi>James,</hi> might pay whom he pleaſed; and, as Maſter of his Buck-hounds, might have taken up ſuch Livery Lace for the uſe of King <hi>James</hi>'s Hunts, as the courſe was of the proper Tradeſmen belonging to the Wardrobe, who muſt have accepted of King <hi>James</hi>'s Payment; <note place="margin">Anſ. fol, 9.</note> but the Reſpondent was a Tradeſman at large, and only credited the Appellant (as he hath poſitively Sworn;) nor does it appear in the Cauſe, but that the Appellant may have paid himſelf.</p>
+            <p>
+               <hi>And therefore humbly hopes the Appeal ſhall be diſmiſſed with Coſts.</hi>
+            </p>
+            <pb facs="tcp:153619:3" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#UOM" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
